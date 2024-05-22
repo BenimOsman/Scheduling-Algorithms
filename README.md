@@ -1,2 +1,3 @@
 # Scheduling-Algorithms
-Contains all the Scheduling Algorithms using C.
+
+This repo contains all the CPU Scheduling Algorithms using C.
